@@ -1,2 +1,2 @@
 # python-coding
-Simple Calculator using pytho
+Simple Calculator using python
