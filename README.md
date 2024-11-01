@@ -1,3 +1,3 @@
 # python-coding
-Simple Calculator using python
-Madlibs word game using python
+# Simple Calculator using python
+# Madlibs word game using python
