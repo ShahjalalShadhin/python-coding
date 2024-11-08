@@ -8,3 +8,4 @@
 ## Simple Even/Odd program using python
 ## Simple Countdown Timer using python
 ## Simple Nested Loop Program using python
+## Simple Shopping Cart Program using python
