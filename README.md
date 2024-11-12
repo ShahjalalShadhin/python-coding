@@ -15,3 +15,4 @@
 ### Simple Number Guessing Program using python
 ### Simple Rock, Paper, Scissors Game using python
 ### Simple Dice Roller Program using python
+### Simple Auto Random Dice Roller Program using python
