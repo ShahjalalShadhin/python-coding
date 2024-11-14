@@ -18,3 +18,4 @@
 ### Simple Auto Random Dice Roller Program using python
 ### Simple Banking Program using python
 ### Simple Slot Machine Program using python
+### Simple Cipher Program using python
